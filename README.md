@@ -1,7 +1,7 @@
 文章前面我会列举一下从我‘学生时代’到‘工作7年’这期间我所使用过的激活方式。
 其中现在所用的，也就是最终方案我放到文章的最后一个目录，赶时间的可以跳过前面直接到最后章节。
 
-![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f30a4638def0450ebff3e45301644dfb~tplv-k3u1fbpfcp-watermark.image?)
+<img width="827" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/c110860e-2722-4d56-9576-f9760dcce269">
 
 ### 1. 免费教育许可证计划
 #### 1.1 使用条件
@@ -18,7 +18,8 @@ https://www.jetbrains.com.cn/community/education/#students
 
 官方收到申请后会在一周内进行审核
 
-![student.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/931458290215477ea3490d8766223b90~tplv-k3u1fbpfcp-watermark.image?)
+<img width="804" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/38949faf-03d9-4dbe-87fb-4b417502b138">
+
 ### 2. 购买个人正版服务
 
 #### 2.1 适合人群
@@ -27,7 +28,8 @@ https://www.jetbrains.com.cn/community/education/#students
 
 #### 2.2 注意事项
 个人使用的公司无法报销，如果用公司报销的方式可以让公司用组织使用来购买的方式
-![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/406e07335d194d90ba6ee2a74c0f29c0~tplv-k3u1fbpfcp-watermark.image?)
+<img width="823" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/536adce3-ecbc-4d35-8c3a-295cfc3b6a21">
+
 #### 2.3 购买地址
 https://www.jetbrains.com.cn/store/#personal
 
@@ -50,13 +52,14 @@ https://www.jetbrains.com.cn/store/#personal
 ### 6. 最终方案：采用搞活动的授权服务器
 例如：https://idea.eiyou.fun 运气好的话 20元即可获取大于一年期的正版授权服务
 
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1cea4e9519d14059ae52ba3c56bdbf4f~tplv-k3u1fbpfcp-watermark.image?)
+<img width="827" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/9258f27a-1726-485b-9610-0a449ffc1d6a">
+
 笔者已在3台机器购买使用超过1.5年，稳得一批
 #### 6.1 使用方式
 1. 打开 https://idea.eiyou.fun 点击中间《获取专属激活地址》的按钮，支付宝扫码支付后，点击《我已捐赠》稍等片刻就能生成专属的服务器授权地址
 2. 在 idea -> help -> Register -> License server 输入在步骤1 分配的地址 点击激活即可
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af938aa327ca4047a5ba990fa0f7ac28~tplv-k3u1fbpfcp-watermark.image?)
+<img width="825" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/697035c1-2fa3-4760-a10d-fa634e694fa3">
 
 
 
