@@ -50,7 +50,7 @@ https://www.jetbrains.com.cn/store/#personal
 
 
 ### 6. 最终方案：采用搞活动的授权服务器
-例如：https://idea.eiyou.fun 贡献一杯咖啡钱即可获取大于一年期的正版授权服务
+例如：https://idea.eiyou.fun 贡献一杯咖啡钱 即可获取大于一年期的正版授权服务
 
 <img width="827" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/9258f27a-1726-485b-9610-0a449ffc1d6a">
 
