@@ -51,5 +51,6 @@ I have used this method on three machines for over 1.5 years, and it has been ve
 #### How to use
 Go to https://idea.eiyou.fun: https://idea.eiyou.fun and click the "Get Exclusive Activation Address" button in the middle. After paying via Alipay, click "I Have Donated". After a short wait, you will receive a unique server license address.
 In IntelliJ IDEA, go to Help > Register > License server. Enter the address you received in step 1 and click "Activate".
+<img width="825" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/697035c1-2fa3-4760-a10d-fa634e694fa3">
 
 I hope this document helps you find the right way to activate IntelliJ IDEA.
