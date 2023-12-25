@@ -51,13 +51,13 @@ https://www.jetbrains.com.cn/store/#personal
 
 
 ### 6. 最终方案：采用搞活动的授权服务器
-例如：https://idea.eiyou.fun 贡献一杯咖啡钱 即可获取大于一年期的正版授权服务
+例如：[https://idea.eiyou.fun](https://idea.jeter.eu.org/) 贡献一杯咖啡钱 即可获取大于一年期的正版授权服务
 
 <img width="827" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/9258f27a-1726-485b-9610-0a449ffc1d6a">
 
 笔者已在3台机器购买使用超过1.5年，稳得一批
 #### 6.1 使用方式
-1. 打开 https://idea.eiyou.fun 点击中间《获取专属激活地址》的按钮，支付宝扫码支付后，点击《我已捐赠》稍等片刻就能生成专属的服务器授权地址
+1. 打开 [https://idea.eiyou.fun](https://idea.jeter.eu.org/) 点击中间《获取专属激活地址》的按钮，支付宝扫码支付后，点击《我已捐赠》稍等片刻就能生成专属的服务器授权地址
 2. 在 idea -> help -> Register -> License server 输入在步骤1 分配的地址 点击激活即可
 
 <img width="825" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/697035c1-2fa3-4760-a10d-fa634e694fa3">
