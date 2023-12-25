@@ -42,14 +42,14 @@ This method is no longer valid.
 This method involves using a tool such as ja-netfilter-all to configure a Java proxy in IntelliJ IDEA. This is a cracked method that requires a specific version of IntelliJ IDEA. It may not work with newer versions, and it can be difficult to set up.
 
 ### 6. Final Solution: Using a Third-Party License Server
-For example, you can contribute the equivalent of a cup of coffee to https://idea.eiyou.fun: https://idea.eiyou.fun to get a genuine license for more than one year.
+For example, you can contribute the equivalent of a cup of coffee to [https://idea.jeter.eu.org](https://idea.jeter.eu.org/) to get a genuine license for more than one year.
 
 <img width="1429" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/bc17ce2a-ea09-4af2-9c71-a35be9ea8c37">
 
 I have used this method on three machines for over 1.5 years, and it has been very stable.
 
 #### How to use
-Go to https://idea.eiyou.fun: https://idea.eiyou.fun and click the "Get Exclusive Activation Address" button in the middle. After paying via Alipay, click "I Have Donated". After a short wait, you will receive a unique server license address.
+Go to [https://idea.jeter.eu.org](https://idea.jeter.eu.org/)and click the "Get Exclusive Activation Address" button in the middle. After paying via Alipay, click "I Have Donated". After a short wait, you will receive a unique server license address.
 In IntelliJ IDEA, go to Help > Register > License server. Enter the address you received in step 1 and click "Activate".
 <img width="825" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/697035c1-2fa3-4760-a10d-fa634e694fa3">
 
