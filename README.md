@@ -1,4 +1,6 @@
 ## 如何激活 IntelliJ 系列产品
+
+## English document: [How to Activate IntelliJ IDEA](./README.en.md)
 文章前面我会列举一下从我‘学生时代’到‘工作7年’这期间我所使用过的激活方式。
 其中现在所用的，也就是最终方案我放到文章的最后一个目录，赶时间的可以跳过前面直接到最后章节。
 
