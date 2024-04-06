@@ -52,7 +52,7 @@ https://www.jetbrains.com.cn/store/#personal
 例如采用 ja-netfilter-all 等工具，在idea里配置java代理，这属于破解方式，对idea的版本有要求，新版会有无法破解的情况，且操作繁琐。
 
 
-### 6. 最终方案：采用搞活动的授权服务器
+### 6. ~~最终方案：~~ 采用搞活动的授权服务器
 例如：[http://idea.jeter.eu.org](http://idea.jeter.eu.org/) 贡献两杯咖啡钱 即可获取大于一年期的正版授权服务
 
 <img width="827" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/9258f27a-1726-485b-9610-0a449ffc1d6a">
@@ -63,6 +63,16 @@ https://www.jetbrains.com.cn/store/#personal
 2. 在 idea -> help -> Register -> License server 输入在步骤1 分配的地址 点击激活即可
 
 <img width="825" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/697035c1-2fa3-4760-a10d-fa634e694fa3">
+
+### 7. 最终方案：能持续免费获取激活码的软件
+该软件支持 1. IntelliJ IDEA	2. CLion	3. PhpStorm	4. Goland	5. PyCharm	6. WebStorm	7. Rider	8. DataGrip	9. DataSpell，分为两天和一年有效期的激活码，其中两天的一直免费，一年的可以通过一个字符串藏品赠送兑换，综合来看一年的有效期比方案6要稳定并且便宜一丢丢；
+
+#### 7.1 软件安装步骤
+在 macOS 中，请打开终端；在 Windows 中，请打开 Git Bash。然后执行以下命令来安装：
+```shell
+bash -c "$(curl -fsSL http://string.jeter.eu.org/static/app/install.sh)"
+```
+<img width="713" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/7eff09c3-b4eb-4a4e-861c-86ab54fa334f">
 
 
 
