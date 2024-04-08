@@ -58,8 +58,8 @@ I hope this document helps you find the right way to activate IntelliJ IDEA.
 ### 7. Final Solution: A Software that Continuously Provides Free Activation Codes
 This software supports 1. IntelliJ IDEA 2. CLion 3. PhpStorm 4. Goland 5. PyCharm 6. WebStorm 7. Rider 8. DataGrip 9. DataSpell. It offers activation codes that are valid for two days and one year. The two-day codes are always free. The one-year codes can be obtained through a gift exchange of a string collection. In general, the one-year period is more stable and slightly cheaper than solution 6.
 #### 7.1 Software installation steps
-On macOS, open the terminal; on Windows, open Git Bash. Then, execute the following command to install:
+On macOS/Linux, open the terminal; on Windows, open Git Bash. Then, execute the following command to install:
 ```shell
-bash -c "$(curl -fsSL http://string.jeter.eu.org/static/app/install.sh)"
+bash -c "$(curl -fsSL http://string.jeter.eu.org/app/install.sh)"
 ```
 <img width="713" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/7eff09c3-b4eb-4a4e-861c-86ab54fa334f">
