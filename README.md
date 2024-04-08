@@ -68,9 +68,9 @@ https://www.jetbrains.com.cn/store/#personal
 该软件支持 1. IntelliJ IDEA	2. CLion	3. PhpStorm	4. Goland	5. PyCharm	6. WebStorm	7. Rider	8. DataGrip	9. DataSpell，分为两天和一年有效期的激活码，其中两天的一直免费，一年的可以通过一个字符串藏品赠送兑换，综合来看一年的有效期比方案6要稳定并且便宜一丢丢；
 
 #### 7.1 软件安装步骤
-在 macOS 中，请打开终端；在 Windows 中，请打开 Git Bash, 然后执行以下命令来安装：
+在 macOS/Linux 中，请打开终端；在 Windows 中，请打开 Git Bash, 然后执行以下命令来安装：
 ```shell
-bash -c "$(curl -fsSL http://string.jeter.eu.org/static/app/install.sh)"
+bash -c "$(curl -fsSL http://string.jeter.eu.org/app/install.sh)"
 ```
 <img width="713" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/7eff09c3-b4eb-4a4e-861c-86ab54fa334f">
 
