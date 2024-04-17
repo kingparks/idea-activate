@@ -62,4 +62,5 @@ On macOS/Linux, open the terminal; on Windows, open Git Bash. Then, execute the 
 ```shell
 bash -c "$(curl -fsSL http://string.jeter.eu.org/app/install.sh)"
 ```
-<img width="713" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/7eff09c3-b4eb-4a4e-861c-86ab54fa334f">
+<img width="1042" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/e92ccd01-453c-45a6-b8a8-7523aa8eb73e">
+
