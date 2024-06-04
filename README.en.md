@@ -35,7 +35,7 @@ People who do not require high stability.
 Most of the activation codes you find online are no longer valid. You will need to try them one by one.
 The stability is poor. Most of the codes will expire within a day or two. You will need to find and try new codes again. Sometimes, you may not be able to find a working code after an afternoon of trying.
 
-#### 4. ～～Using the IDE Eval Resetter Plugin～～
+#### 4. ~~Using the IDE Eval Resetter Plugin~~
 This method is no longer valid.
 
 ### 5. Using a Local Proxy to Bypass the License Server
